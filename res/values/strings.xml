@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">DroidWatch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="splash_text">App Launch Screen!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_droidwatch">DroidWatch</string>
+    <string name="user_consent_banner_text">You are operating in a monitored environment. By agreeing to these terms, you consent to monitoring.</string>
+    <string name="user_consent_banner_title">Monitoring Consent</string>
+
+</resources>
