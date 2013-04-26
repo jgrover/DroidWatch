@@ -17,5 +17,18 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-Approved for Public Release; Distribution Unlimited. 13-0711
 
+============
+Installation
+============
+1) Ensure that the Android SDK is installed on your machine, specifically
+the Android Debug Bridge ("adb").
+
+2) Connect your Android (Gingerbread version) to your machine via USB.
+
+3) Download the DroidWatch-Gingerbread-2.3.6.apk file.
+
+4) Type the following command:
+adb install DroidWatch-Gingerbread-2.3.6.apk
+
+5) Reboot the phone.
